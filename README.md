@@ -1,3 +1,3 @@
-# word-guess-game
+# Word Guess Game
 
 ## Homework assignment
